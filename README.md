@@ -29,8 +29,10 @@ Now I am combining my domain expertise with a modern data tech stack to help bus
 ### 📁 Projects
 * **[Hystory_of_Videogames_EDanilevich](https://github.com/ElenaDanilevich/Hystory_of_Videogames_EDanilevich)** — Detailed Data Analysis (Python, Pandas)
   * *Description:* Processed  raw data, verified data accuracy, conducted gaming platform overview.
-* **[{Project Name 2}](./link-to-folder)** — Interactive Dashboard (Power BI / Tableau)
-  * *Description:* Designed a comprehensive dashboard for tracking company KPIs.
+* **[Project_Startup_research_EDanilevich](https://github.com/ElenaDanilevich/Project_Startup_research_EDanilevich)** — Business Data Analysis (Python, Pandas, Matplotlib, Seaborn)
+  * *Description:* Prepocessed raw data, splitted company groups, classified market segments, investment reommendations.
+* **[Dashboard-for-a-real-estate-agency](https://github.com/ElenaDanilevich/Dashboard-for-a-real-estate-agency)** — Interactive Dashboard (DataLens, SQL)
+  * *Description:* Prepared dataset (SQL), developed dashboard with market dynamics and identification of locations with the best performance.
 
 ---
 
