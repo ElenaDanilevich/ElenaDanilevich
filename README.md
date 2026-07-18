@@ -38,9 +38,3 @@ Now I am combining my domain expertise with a modern data tech stack to help bus
 * **LinkedIn:** [Elena Danilevich](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 * **Telegram:** [@ElenaDanilevich_13](https://t.me/ElenaDanilevich_13)
 * **Email:** [yelenasem@gmail.com](mailto:yelenasem@gmail.com)
-
----
-<p align="center">
-  <img src="https://vercel.app{YOUR_GITHUB_USERNAME}&show_icons=true&theme=radial" alt="GitHub Stats" />
-</p> / {Your Role}** at International Oilfield Services Company.
-* **Key transferable skills for Data Analytics:** Advanced problem-solving, root-cause analysis, processing equipment sensor data, cross-functional communication, and managing large-scale technical projects.
