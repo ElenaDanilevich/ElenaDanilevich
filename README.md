@@ -27,8 +27,8 @@ Now I am combining my domain expertise with a modern data tech stack to help bus
 ---
 
 ### 📁 Projects
-* **[{Project Name 1}](./link-to-folder)** — Business Data Analysis (Python, SQL)
-  * *Description:* Cleared raw data, performed cohort analysis, and identified revenue drop factors.
+* **[Hystory of videogames](./ElenaDanilevich/Hystory_of_Videogames_EDanilevich)** — Detailed Data Analysis (Python, Pandas)
+  * *Description:* Processed  raw data, verified data accuracy, conducted gaming platform overview.
 * **[{Project Name 2}](./link-to-folder)** — Interactive Dashboard (Power BI / Tableau)
   * *Description:* Designed a comprehensive dashboard for tracking company KPIs.
 
